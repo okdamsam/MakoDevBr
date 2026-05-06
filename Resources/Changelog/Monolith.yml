@@ -20865,3 +20865,10 @@ Entries:
   id: 2297
   time: '2026-05-06T21:21:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3931
+- author: Mrrpip
+  changes:
+    - type: Fix
+      message: Fixes duplicate consoles on the Tarantula.
+  id: 2298
+  time: '2026-05-06T21:28:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3952
