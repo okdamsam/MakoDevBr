@@ -21222,3 +21222,10 @@ Entries:
   id: 2338
   time: '2026-05-21T02:48:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4025
+- author: LassiH
+  changes:
+    - type: Add
+      message: added lithium and copper to scrap processor
+  id: 2339
+  time: '2026-05-21T02:49:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4020
