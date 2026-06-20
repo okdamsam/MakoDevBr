@@ -2,7 +2,7 @@
 
 Mako is a fork of Monolith, [Frontier Station 14](https://github.com/new-frontiers-14/frontier-station-14) that runs on the [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
 
-This is the primary repo for Monolith.
+This is the dev repo for Mako.
 
 If you want to host or create content for Monolith, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
